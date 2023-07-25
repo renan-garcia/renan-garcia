@@ -35,7 +35,3 @@ My name is Renan Garcia and i am a web developer from Brazil. Nerd, gamer and ot
 </p>
 
 ---
-
-### Github stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=renan-garcia&count_private=true&theme=radical&custom_title=Renan+Garcia's+GitHub+Stats&show_icons=true" />
